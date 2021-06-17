@@ -1,4 +1,4 @@
-# Kubernetes Training
+# Certified Kubernetes Application Developer Webinar Series
 
 ## Session 1
 Event URL: https://www.meetup.com/Azure-Meetup-Frankfurt/
