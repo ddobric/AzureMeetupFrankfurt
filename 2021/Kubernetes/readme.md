@@ -8,6 +8,8 @@ Presentation: https://github.com/ddobric/AzureMeetupFrankfurt/blob/master/2021/K
 ## Session 2
 Event URL: https://www.meetup.com/de-DE/Azure-Meetup-Frankfurt/events/278017832/
 
-Presentation: https://github.com/ddobric/AzureMeetupFrankfurt/blob/master/2021/Kubernetes/Meetup_Kubernetes2.pdf
+Presentation: 
+https://github.com/ddobric/AzureMeetupFrankfurt/blob/master/2021/Kubernetes/Meetup_Kubernetes2.pdf
 
 ## Session 3
+...
