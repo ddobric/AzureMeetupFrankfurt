@@ -14,5 +14,5 @@ https://github.com/ddobric/AzureMeetupFrankfurt/blob/master/2021/Kubernetes/Meet
 ## Session 3
 Event URL: https://www.meetup.com/de-DE/Azure-Meetup-Frankfurt/events/278017851/
 Exercises: https://github.com/dgkanatsios/CKAD-exercises
-Presentation:
+Presentation: https://github.com/ddobric/AzureMeetupFrankfurt/blob/master/2021/Kubernetes/Kubernetes_3.pdf
 Commands: 
