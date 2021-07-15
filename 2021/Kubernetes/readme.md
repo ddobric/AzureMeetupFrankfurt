@@ -18,4 +18,4 @@ Exercises: https://github.com/dgkanatsios/CKAD-exercises
 
 Presentation: https://github.com/ddobric/AzureMeetupFrankfurt/blob/master/2021/Kubernetes/Kubernetes_3.pdf
 
-Demo Commands:https://github.com/ddobric/AzureMeetupFrankfurt/blob/master/2021/Kubernetes/DEMO%20Commands.pdf
+Demo Commands:[Befehle Kubernetes Übungen](Commands.md)
