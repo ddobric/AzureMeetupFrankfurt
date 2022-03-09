@@ -2,4 +2,4 @@ presentation: https://github.com/ddobric/AzureMeetupFrankfurt/blob/master/2022/a
 
 Meetup: https://www.meetup.com/de-DE/Azure-Meetup-Frankfurt/events/282680034/
 
-Video recording: coming soon
+Video recording: https://youtu.be/eqh6a4kR4oc
