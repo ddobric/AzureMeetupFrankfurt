@@ -4,4 +4,4 @@ presentation: https://youtu.be/nLLudEM1Q4o
 
 azure meetup Episode 2: .NETML Tensor Flow: https://www.meetup.com/de-DE/azure-meetup-frankfurt/events/289622219/
 
-presentation: 
+presentation: https://github.com/poleindraneel/Azure-meetup-net-conference-22
