@@ -1,5 +1,7 @@
 azure meetup Episode 1: Object Oriented Programming: https://www.meetup.com/de-DE/azure-meetup-frankfurt/events/289469912/
 
+Video: https://youtu.be/emTGMlerIKA
+
 azure meetup Episode 2: Azure DevOps Services Fundamentals: https://www.meetup.com/de-DE/azure-meetup-frankfurt/events/289622196/
 
 presentation 5.12.22: https://youtu.be/nLLudEM1Q4o
