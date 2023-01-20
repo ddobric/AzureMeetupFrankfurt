@@ -1,3 +1,5 @@
+azure meetup Episode 1: https://www.meetup.com/de-DE/azure-meetup-frankfurt/events/289469912/
+
 azure meetup Episode 2: Azure DevOps Services Fundamentals: https://www.meetup.com/de-DE/azure-meetup-frankfurt/events/289622196/
 
 presentation 5.12.22: https://youtu.be/nLLudEM1Q4o
