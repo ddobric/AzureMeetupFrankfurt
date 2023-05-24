@@ -6,4 +6,4 @@ presentaion Thorsten Hans: https://github.com/ddobric/AzureMeetupFrankfurt/blob/
 
 ressources Thorsten Hans: https://github.com/ThorstenHans/global-azure-2023
 
-presentation: Armin Kalajdzija: 
+presentation: Armin Kalajdzija: https://github.com/ddobric/AzureMeetupFrankfurt/blob/master/2023/Global%20Azure/AzureMeetup_Slides_05_2023_AK.pdf
